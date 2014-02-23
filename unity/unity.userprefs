@@ -1,0 +1,22 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Suppressing.cs">
+    <Files>
+      <File FileName="Assets\Scripts\FrequencyBandVisualizer.cs" Line="90" Column="57" />
+      <File FileName="Assets\Scripts\OutputAudioAnalyser.cs" Line="1" Column="1" />
+      <File FileName="Assets\ChangeBackgroundOnPlay.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Music\Melody.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Music\WaveGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Music\Instrument.cs" Line="1" Column="1" />
+      <File FileName="Assets\Rythm.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Music\AudioSyncher.cs" Line="29" Column="1" />
+      <File FileName="Assets\Suppressing.cs" Line="15" Column="54" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="C:\Users\dario\Documents\GitHub\flappy-mini-jam\unity\Assets\Scripts\FrequencyBandVisualizer.cs" line="47" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
